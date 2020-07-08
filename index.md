@@ -1,8 +1,8 @@
 
 
-<p align="center">Pavel is an explorer and dreams to have a large positive impact in the world. His natural curiosity pushed him to develop multiple skills, and through persistence, dedication and discipline, excel at them. Coming from a Psychology background mixed with technical skills, he believes that he can impact the world through developing technology that targets people’s higher needs (as per Maslow’s pyramid).</p>
+<p align="center">Pavel is an explorer and wants to have a large positive impact in the world. His natural curiosity pushed him to develop multiple skills, and through persistence, dedication and discipline, excel at them. Coming from a Psychology background mixed with technical skills, he believes that he can impact the world through developing technology that targets people’s higher needs (as per Maslow’s pyramid).</p>
 
-<h3 align="center">SKILLS</h3>
+<h3 align="center">Skills</h3>
 
 
 • Python • SQL and NoSQL • Machine learning • SSIS • Adaptability • Creativity • Tenacity • Empathy
@@ -15,7 +15,7 @@ OPTIMISATION OF SPARTA PROJECT
 Achievements: Improved the previous Sparta project by following a strict object-oriented approach. Replaced the methods for a more efficient processing (x6 faster) and increased reliability of the data through introducing additional validation (e.g. merging on two fields when a unique identifier is lacking). https://github.com/PavCasian/Data8Project/tree/development 
 FLANK TASK DEPLOYED TO HEROKU Achievements: Flank is a known experimental paradigm for attention studying, which is rebuilt by Pavel in HTML, JavaScript and PHP, and deployed to the Heroku cloud development platform. The task records the reaction time of the participant and stores the data in a PostgreSQL database. https://pavelcasian.herokuapp.com/
 
-<p align="center">EMPLOYMENT HISTORY</p>
+<h3 align="center">Employment History</h3>
 
 FEB 2020 - APR 2020 
 SPARTA GLOBAL 
@@ -37,7 +37,7 @@ SECURITY WATCHDOG
 SCREENING SPECIALIST
 Pavel was part of a team that delivered worldwide screening services, which included past employment and education checks. He showed ability to work to own initiative and portrayed first class problem-solving skills through finding the most reliable source that could confirm the specific roles of his candidates. Pavel was also in close contact with the stakeholders (clients, candidates and his team) to ensure that they are informed of the process. JUN 2017 - SEP 2017 NATIVO LTD VIRGIN MEDIA BRAND AMBASSADOR Pavel promoted the Virgin Media internet to students through social media and attracted new customers.
 
-<p align="center">EDUCATION</p>
+<h3 align="center">Education</h3>
 
 SEPT 2016 - JUL 2019
 UNIVERSITY OF SOUTHAMPTON
@@ -51,14 +51,14 @@ Web programming projects: Pavel used HTML, CSS, PHP, JavaScript, SQL, MySQL to d
   -Interactive web page 
 Final Project: The experimental paradigm involved the use of an eye-tracker that recorded the eye-movements of participants while reading. The idea of the project was to see whether reading performance will be affected by changes in the text format. Pavel came up with the idea, and in close collaboration with an expert in psycholinguistics, designed the experiment and analysed the data. For data analysis, tools such as Pivot tables and ANOVAs were used. The project received a first-class mark and was deemed worth to be published. Pavel has also received a PhD offer to continue his work on the project.
 
-<p align="center">HOBBIES/EXTRA CURRICULAR ACTIVITIES</p>
-• Triathlon: Pavel practices triathlon which allows him to train his resilience and focus 
-• Health and Fitness: He is also in fond of a healthy lifestyle and is currently on a plant-based diet 
-• Speaks four languages: Russian, Romanian, Italian and English 
-• Dancing: Currently learning salsa and bachata (Latino dances) because it enhances the body-mind connection 
-• Meditation: Also practices meditation to maintain calm, focused and present in the moment
+<h3 align="center">Hobbies/Extra Curricular Activities</h3>
+• **Triathlon**: Pavel practices triathlon which allows him to train his resilience and focus 
+• **Health and Fitness**: He is also in fond of a healthy lifestyle and is currently on a plant-based diet 
+• **Speaks four languages**: Russian, Romanian, Italian and English 
+• **Dancing**: Currently learning salsa and bachata (Latino dances) because it enhances the body-mind connection 
+• **Meditation**: Also practices meditation to maintain calm, focused and present in the moment
 
-<p align="center">VOLUNTEER WORK</p>
+<h3 align="center">Volunteer Work</h3>
 Voluntary research assistant
 School of Psychology, University of Southampton: Pavel worked with one of the experts in visual perception at University of Southampton on a project that explores multisensory perception. One of his main responsibilities in the project was data collection, which involved finding participants and testing them on the experimental apparatus. He also took responsibility in designing the procedure part of the experiment.
 
@@ -69,6 +69,6 @@ Community Centre for Mental Health: The role involved working with people with m
 • leading group and individual mindfulness sessions 
 • explaining concepts and principles included in the recovery program to the patients
 
-<p align="center">ACHIEVEMENTS</p>
+<h3 align="center">Achievements</h3>
 • Pavel is proud for being able to financially support himself at university with very little support from his parents. 
 • In his second year at university, he entered the competitive team of the university’s swimming club. This is impressive considering that he started swimming in his first year.
