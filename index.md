@@ -52,11 +52,11 @@ Web programming projects: Pavel used HTML, CSS, PHP, JavaScript, SQL, MySQL to d
 Final Project: The experimental paradigm involved the use of an eye-tracker that recorded the eye-movements of participants while reading. The idea of the project was to see whether reading performance will be affected by changes in the text format. Pavel came up with the idea, and in close collaboration with an expert in psycholinguistics, designed the experiment and analysed the data. For data analysis, tools such as Pivot tables and ANOVAs were used. The project received a first-class mark and was deemed worth to be published. Pavel has also received a PhD offer to continue his work on the project.
 
 <h3 align="center">Hobbies/Extra Curricular Activities</h3>
-• **Triathlon**: Pavel practices triathlon which allows him to train his resilience and focus 
-• **Health and Fitness**: He is also in fond of a healthy lifestyle and is currently on a plant-based diet 
-• **Speaks four languages**: Russian, Romanian, Italian and English 
-• **Dancing**: Currently learning salsa and bachata (Latino dances) because it enhances the body-mind connection 
-• **Meditation**: Also practices meditation to maintain calm, focused and present in the moment
+* **Triathlon**: Pavel practices triathlon which allows him to train his resilience and focus 
+* **Health and Fitness**: He is also in fond of a healthy lifestyle and is currently on a plant-based diet 
+* **Speaks four languages**: Russian, Romanian, Italian and English 
+* **Dancing**: Currently learning salsa and bachata (Latino dances) because it enhances the body-mind connection 
+* **Meditation**: Also practices meditation to maintain calm, focused and present in the moment
 
 <h3 align="center">Volunteer Work</h3>
 Voluntary research assistant
