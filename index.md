@@ -7,7 +7,7 @@
 
 • Python • SQL and NoSQL • Machine learning • SSIS • Adaptability • Creativity • Tenacity • Empathy
 
-<p align="center">PROJECTS</p> 
+<h3 align="center">Projects</h3> 
 
 SPARTA
 Achievements: Engineered an ETL pipeline, which extracted json, csv and text files from AWS S3 cloud storage, transformed and linked the data using Python, and loaded into a Microsoft SQL Server database.
