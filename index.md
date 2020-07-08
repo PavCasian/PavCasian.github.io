@@ -2,7 +2,7 @@
 
 <p align="center">Pavel is an explorer and dreams to have a large positive impact in the world. His natural curiosity pushed him to develop multiple skills, and through persistence, dedication and discipline, excel at them. Coming from a Psychology background mixed with technical skills, he believes that he can impact the world through developing technology that targets people’s higher needs (as per Maslow’s pyramid).</p>
 
-<p align="center">SKILLS</p>
+<h3 align="center">SKILLS</h3>
 
 
 • Python • SQL and NoSQL • Machine learning • SSIS • Adaptability • Creativity • Tenacity • Empathy
