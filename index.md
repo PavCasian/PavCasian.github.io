@@ -9,15 +9,15 @@
 
 <h3 align="center">Projects</h3> 
 
-#####SPARTA
+##### SPARTA
 <p>
 Engineered an ETL pipeline, which extracted json, csv and text files from AWS S3 cloud storage, transformed and linked the data using Python, and loaded into a Microsoft SQL Server database.
 </p>
-#####OPTIMISATION OF SPARTA PROJECT
+##### OPTIMISATION OF SPARTA PROJECT
 <p>
 Improved the previous Sparta project by following a strict object-oriented approach. Replaced the methods for a more efficient processing (x6 faster) and increased reliability of the data through introducing additional validation (e.g. merging on two fields when a unique identifier is lacking). https://github.com/PavCasian/Data8Project/tree/development 
 </p>
-#####FLANK TASK DEPLOYED TO HEROKU 
+##### FLANK TASK DEPLOYED TO HEROKU 
 <p>
 Flank is a known experimental paradigm for attention studying, which is rebuilt by Pavel in HTML, JavaScript and PHP, and deployed to the Heroku cloud development platform. The task records the reaction time of the participant and stores the data in a PostgreSQL database. https://pavelcasian.herokuapp.com/
 </p>
