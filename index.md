@@ -28,23 +28,23 @@ Flank is a known experimental paradigm for attention studying, which is rebuilt 
 FEB 2020 - APR 2020 <br>
 SPARTA GLOBAL <br>
 JUNIOR DATA ENGINEERING TRAINEE <br>
-An intensive and challenging 10-weeks course that provided Pavel with knowledge of data infrastructures. More specifically, he learnt how to build data pipelines with SQL and Python; the Hadoop ecosystem for Big Data storing, processing and analysis; the MongoDB NoSQL database; and the cloud architecture of Amazon S3. He also acquired top class business and consultancy skills. <br>
-
+An intensive and challenging 10-weeks course that taught the engineering of data infrastructures. More specifically, Pavel learnt how to build data pipelines with SQL and Python; the Hadoop ecosystem for Big Data storing, processing and analysis; the MongoDB NoSQL database; and the cloud architecture of Amazon S3. He also acquired top class business and consultancy skills. <br>
+<br>
 JUN 2018 - OCT 2018 <br>
 GI GROUP <br>
 PRODUCTION OPERATIVE <br>
 Pavel was involved in quality check and technical production maintenance. This was accomplished through regular checks and troubleshooting any faults that resulted in poor production index. <br>
-
+<br>
 OCT 2017 - JAN 2018 <br>
 BUSINESS INNOVATION PROGRAMME <br>
 STUDENT CONSULTANT <br>
 Pavel worked with 4 other students on a business problem of a luxury clothing brand. The main concern of their client was strengthening the connection with their customers. Pavel and his team researched viable marketing strategies and conducted a survey to identify the local population’s reasons for buying luxury products and being loyal to a brand. These were included in a report and presented to their client. <br>
-
+<br>
 JUN 2017 - SEP 2017 <br>
 SECURITY WATCHDOG <br>
 SCREENING SPECIALIST <br>
 Pavel was part of a team that delivered worldwide screening services, which included past employment and education checks. He showed ability to work to own initiative and portrayed first class problem-solving skills through finding the most reliable source that could confirm the specific roles of his candidates. Pavel was also in close contact with the stakeholders (clients, candidates and his team) to ensure that they are informed of the process. 
-
+<br>
 JUN 2017 - SEP 2017 <br>
 NATIVO LTD <br>
 VIRGIN MEDIA BRAND AMBASSADOR <br>
@@ -57,10 +57,13 @@ Pavel promoted the Virgin Media internet to students through social media and at
 SEPT 2016 - JUL 2019 <br>
 UNIVERSITY OF SOUTHAMPTON <br>
 BSC PSYCHOLOGY (FIRST CLASS) <br>
-<i>Modules</i>: 
-1st Year: Research Methods & Data Analysis (RMDA); RMDA 2 & Empirical Studies; Behavioural Neuroscience. <br>
-2nd Year: RMDA 3; Empirical Studies 2; Perception; Animal Cognition and Behaviour, Forensic Cognitive and Affective Neuroscience. <br>
-3rd Year: Web-programming for Behavioural Scientists; Advanced Quantitative Research Skills (with Programming in R); Understanding Your World with Vision, Touch, Smell and Sounds; Clinical Psychology; Cognitive Neuroscience, Human Learning. <br>
+<i>Modules</i>: <br>
+  <ul>
+<li>1st Year: Research Methods & Data Analysis (RMDA); RMDA 2 & Empirical Studies; Behavioural Neuroscience. </li>
+<li>2nd Year: RMDA 3; Empirical Studies 2; Perception; Animal Cognition and Behaviour, Forensic Cognitive and Affective Neuroscience. </li>
+<li>3rd Year: Web-programming for Behavioural Scientists; Advanced Quantitative Research Skills (with Programming in R); Cognitive Neuroscience, Human Learning. </li>
+  </ul>  
+  <br>
   <i>Web programming projects</i>: Pavel used HTML, CSS, PHP, JavaScript, SQL, MySQL to develop the following web applications:
   <ul>
   <li>Questionnaire which stored data in a MySQL database</li>
