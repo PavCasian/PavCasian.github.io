@@ -43,7 +43,7 @@ Pavel worked with 4 other students on a business problem of a luxury clothing br
 JUN 2017 - SEP 2017 <br>
 SECURITY WATCHDOG <br>
 SCREENING SPECIALIST <br>
-Pavel was part of a team that delivered worldwide screening services, which included past employment and education checks. He showed ability to work to own initiative and portrayed first class problem-solving skills through finding the most reliable source that could confirm the specific roles of his candidates. Pavel was also in close contact with the stakeholders (clients, candidates and his team) to ensure that they are informed of the process. 
+Pavel was part of a team that delivered worldwide screening services, which included past employment and education checks. He showed ability to work to own initiative and portrayed first class problem-solving skills through finding the most reliable source that could confirm the specific roles of his candidates. Pavel was also in close contact with the stakeholders (clients, candidates and his team) to ensure that they are informed of the process.<br>
 <br>
 JUN 2017 - SEP 2017 <br>
 NATIVO LTD <br>
@@ -70,7 +70,7 @@ BSC PSYCHOLOGY (FIRST CLASS) <br>
   <li>Psychological test (Flank task)</li>
   <li>Interactive web page</li>
   </ul>
-  <i>Final Project</i>: The experimental paradigm involved the use of an eye-tracker that recorded the eye-movements of participants while reading. The idea of the project was to see whether reading performance will be affected by changes in the text format. Pavel came up with the idea, and in close collaboration with an expert in psycholinguistics, designed the experiment and analysed the data. For data analysis, tools such as Pivot tables and ANOVAs were used. The project received a first-class mark and was deemed worth to be published. Pavel has also received a PhD offer to continue his work on the project.
+  <i>Final Project</i>: The experimental paradigm involved the use of an eye-tracker that recorded the eye-movements of participants while reading. The idea of the project was to see whether reading performance will be affected by changes in the text format. Pavel came up with the idea, and in close collaboration with an expert in psycholinguistics, designed the experiment and analysed the data. For data analysis, tools such as Pivot tables and ANOVAs were used. The project received a first-class mark and was deemed worth to be published. <i>Pavel has also received a PhD offer to continue his work on the project.</i>
 </p>
 
 <h3 align="center">Hobbies/Extra Curricular Activities</h3>
@@ -82,17 +82,13 @@ BSC PSYCHOLOGY (FIRST CLASS) <br>
 * **Meditation**: Also practices meditation to maintain calm, focused and present in the moment
 
 <h3 align="center">Volunteer Work</h3>
-
-Voluntary research assistant
+<p>
+Voluntary research assistant <br>
 School of Psychology, University of Southampton: Pavel worked with one of the experts in visual perception at University of Southampton on a project that explores multisensory perception. One of his main responsibilities in the project was data collection, which involved finding participants and testing them on the experimental apparatus. He also took responsibility in designing the procedure part of the experiment.
-
-Support worker 
+</p>
+Support worker <br>
 Community Centre for Mental Health: The role involved working with people with mental health issues, such as addiction, depression and psychosis. Pavel’s activity involved: 
 • assisting patients with their daily needs: eating, shaving, bathing 
 • learning the Alcoholics Anonymous and CBT principles and strategies in treating addiction 
 • leading group and individual mindfulness sessions 
 • explaining concepts and principles included in the recovery program to the patients
-
-<h3 align="center">Achievements</h3>
-• Pavel is proud for being able to financially support himself at university with very little support from his parents. 
-• In his second year at university, he entered the competitive team of the university’s swimming club. This is impressive considering that he started swimming in his first year.
