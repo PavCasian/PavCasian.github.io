@@ -1,6 +1,6 @@
 
 
-<p align="center">Pavel is an explorer and wants to have a large positive impact in the world. His natural curiosity pushed him to develop multiple skills, and through persistence, dedication and discipline, excel at them. Coming from a Psychology background mixed with technical skills, he believes that he can impact the world through developing technology that targets people’s higher needs (as per Maslow’s pyramid).</p>
+<p align="center">Pavel is an explorer and wants to have a large positive impact in the world. His natural curiosity pushed him to develop multiple skills, and through persistence, dedication and discipline, excel at them. Coming from a Psychology background mixed with technical skills, he believes that he can impact the world through developing technology that targets people’s higher needs (as per <a href="https://www.simplypsychology.org/maslow.html#:~:text=Maslow's%20hierarchy%20of%20needs%20is,attend%20to%20needs%20higher%20up." target="_top">Maslow’s pyramid</a>).</p>
 
 <h3 align="center">Skills</h3>
 
@@ -15,11 +15,12 @@ Engineered an ETL pipeline, which extracted json, csv and text files from AWS S3
 </p>
 ##### OPTIMISATION OF SPARTA PROJECT
 <p>
-Improved the previous Sparta project by following a strict object-oriented approach. Replaced the methods for a more efficient processing (x6 faster) and increased reliability of the data through introducing additional validation (e.g. merging on two fields when a unique identifier is lacking). https://github.com/PavCasian/Data8Project/tree/development 
+Improved the previous Sparta project by following a strict object-oriented approach. Replaced the methods for a more efficient processing (x6 faster) and increased reliability of the data through introducing additional validation (e.g. merging on two fields when a unique identifier is lacking). <a>https://github.com/PavCasian/Data8Project/tree/development</a> 
 </p>
 ##### FLANK TASK DEPLOYED TO HEROKU 
 <p>
-Flank is a known experimental paradigm for attention studying, which is rebuilt by Pavel in HTML, JavaScript and PHP, and deployed to the Heroku cloud development platform. The task records the reaction time of the participant and stores the data in a PostgreSQL database. https://pavelcasian.herokuapp.com/
+Flank is a known experimental paradigm for attention studying, which is rebuilt by Pavel in HTML, JavaScript and PHP, and deployed to the Heroku cloud development platform. The task records the reaction time of the participant and stores the data in a PostgreSQL database. <br> 
+  <a>https://pavelcasian.herokuapp.com/</a>
 </p>
 
 <h3 align="center">Employment History</h3>
@@ -70,7 +71,7 @@ BSC PSYCHOLOGY (FIRST CLASS) <br>
   <li>Psychological test (Flank task)</li>
   <li>Interactive web page</li>
   </ul>
-  <i>Final Project</i>: The experimental paradigm involved the use of an eye-tracker that recorded the eye-movements of participants while reading. The idea of the project was to see whether reading performance will be affected by changes in the text format. Pavel came up with the idea, and in close collaboration with an expert in psycholinguistics, designed the experiment and analysed the data. For data analysis, tools such as Pivot tables and ANOVAs were used. The project received a first-class mark and was deemed worth to be published. <i>Pavel has also received a PhD offer to continue his work on the project.</i>
+  <i>Final Project</i>: The experimental paradigm involved the use of an eye-tracker that recorded the eye-movements of participants while reading. The idea of the project was to investigate whether reading performance will be affected by changes in the text format. Pavel came up with the idea, and in close collaboration with an expert in psycholinguistics, designed the experiment and analysed the data. For data analysis, tools such as Pivot tables and ANOVAs were used. The project received a first-class mark and was deemed worth to be published. <i>Pavel has also received a PhD offer to continue his work on the project.</i>
 </p>
 
 <h3 align="center">Hobbies/Extra Curricular Activities</h3>
@@ -87,8 +88,4 @@ Voluntary research assistant <br>
 School of Psychology, University of Southampton: Pavel worked with one of the experts in visual perception at University of Southampton on a project that explores multisensory perception. One of his main responsibilities in the project was data collection, which involved finding participants and testing them on the experimental apparatus. He also took responsibility in designing the procedure part of the experiment.
 </p>
 Support worker <br>
-Community Centre for Mental Health: The role involved working with people with mental health issues, such as addiction, depression and psychosis. Pavel’s activity involved: 
-• assisting patients with their daily needs: eating, shaving, bathing 
-• learning the Alcoholics Anonymous and CBT principles and strategies in treating addiction 
-• leading group and individual mindfulness sessions 
-• explaining concepts and principles included in the recovery program to the patients
+Community Centre for Mental Health: The role introduced Pavel to important techniques and principles from Alchoolics Anonymous and Cognitive Behavioural Therapy. He was happily supporting in-patients in whatever they needed help with.
