@@ -58,7 +58,7 @@ Pavel promoted the Virgin Media internet to students through social media and at
 SEPT 2016 - JUL 2019 <br>
 UNIVERSITY OF SOUTHAMPTON <br>
 BSC PSYCHOLOGY (FIRST CLASS) <br>
-<i>Modules</i>: <br>
+<i>Modules</i>:
   <ul>
 <li>1st Year: Research Methods & Data Analysis (RMDA); RMDA 2 & Empirical Studies; Behavioural Neuroscience. </li>
 <li>2nd Year: RMDA 3; Empirical Studies 2; Perception; Animal Cognition and Behaviour, Forensic Cognitive and Affective Neuroscience. </li>
