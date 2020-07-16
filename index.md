@@ -4,7 +4,7 @@
 </p>
 
   <a href="https://www.linkedin.com/in/pavel-casian-820680156/">
-    <img src="download.png" alt="linkedin logo">
+    <img src="download.png", height="60", width="50" alt="linkedin logo">
   </a>
 
 <h3 align="center">Skills</h3>
