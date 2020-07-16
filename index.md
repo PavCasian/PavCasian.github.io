@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://www.linkedin.com/in/pavel-casian-820680156/">
-    <img src="download.png" height="50" width="85" alt="linkedin logo">
+    <img src="download.png" height="50" width="88" alt="linkedin logo">
   </a>
 </p>
 
@@ -27,6 +27,14 @@ Improved the previous Sparta project by following a strict object-oriented appro
 Flank is a known experimental paradigm for attention studying, which is rebuilt by Pavel in HTML, JavaScript and PHP, and deployed to the Heroku cloud development platform. The task records the reaction time of the participant and stores the data in a PostgreSQL database. <br> 
   <a>https://pavelcasian.herokuapp.com/</a>
 </p>
+
+<h3 align="center">Courses</h3>
+<ul>
+  <li>Learn Python Programming Masterclass - Udemy</li>
+  <li>Deep Learning and NLP A-Z™: How to create a ChatBot with Python and Tensorflow - Udemy</li>
+  <li>Extracting and Transforming Data in SSIS - Pluralsight</li>
+  <li>Machine Learning with Andrew Ng - Coursera</li>
+</ul>
 
 <h3 align="center">Employment History</h3>
 
