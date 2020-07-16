@@ -2,11 +2,11 @@
 
 <p align="center">Pavel is an explorer and wants to have a large positive impact in the world. His natural curiosity pushed him to develop multiple skills, and through persistence, dedication and discipline, excel at them. Coming from a Psychology background mixed with technical skills, he believes that he can impact the world through developing technology that targets people’s higher needs (as per <a href="https://www.simplypsychology.org/maslow.html#:~:text=Maslow's%20hierarchy%20of%20needs%20is,attend%20to%20needs%20higher%20up." target="_top">Maslow’s pyramid</a>).
 </p>
-
+<p align="right">
   <a href="https://www.linkedin.com/in/pavel-casian-820680156/">
-    <img src="download.png", height="60", width="50" alt="linkedin logo">
+    <img src="download.png", height="50", width="40", alt="linkedin logo">
   </a>
-
+</p>
 <h3 align="center">Skills</h3>
 
 
