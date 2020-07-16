@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://www.linkedin.com/in/pavel-casian-820680156/">
-    <img src="download.png" height="45" width="56" alt="linkedin logo">
+    <img src="download.png" height="47" width="70" alt="linkedin logo">
   </a>
 </p>
 
