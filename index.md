@@ -9,6 +9,7 @@
 
 <h3 align="center">Skills</h3>
 
+<p>
 <ul style="width:10%; float:left;">
       <li>Python</li>
       <li>SQL and NoSQL</li>
@@ -22,6 +23,7 @@
       <li>Tenacity</li>
       <li>Empathy</li>
  </ul>
+</p>
 
 <h3 align="center">Projects</h3> 
 
