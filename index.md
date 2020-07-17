@@ -4,13 +4,24 @@
   </a>
 </p>
 
-<p align="center">Pavel is an explorer and wants to have a large positive impact in the world. His natural curiosity pushed him to develop multiple skills, and through persistence, dedication and discipline, excel at them. Coming from a Psychology background mixed with technical skills, he believes that he can impact the world through developing technology that targets people’s higher needs (as per <a href="https://www.simplypsychology.org/maslow.html#:~:text=Maslow's%20hierarchy%20of%20needs%20is,attend%20to%20needs%20higher%20up." target="_top">Maslow’s pyramid</a>).
+<p align="center">Pavel is a passionate learner. His natural curiosity pushed him to develop multiple skills, and through persistence, dedication and discipline, excel at them. He believes in giving back through technology.
 </p>
 
 <h3 align="center">Skills</h3>
 
-
-• Python • SQL and NoSQL • Machine learning • SSIS • Adaptability • Creativity • Tenacity • Empathy
+<ul style="width:10%; float:left;">
+      <li>Python</li>
+      <li>SQL and NoSQL</li>
+      <li>Machine learning</li>
+      <li>SSIS</li>
+</ul>
+   
+<ul style="width:10%; float:left;">
+      <li>Adaptability</li>
+      <li>Creativity</li>
+      <li>Tenacity</li>
+      <li>Empathy</li>
+ </ul>
 
 <h3 align="center">Projects</h3> 
 
@@ -25,7 +36,7 @@ Improved the previous Sparta project by following a strict object-oriented appro
 ##### FLANK TASK DEPLOYED TO HEROKU 
 <p>
 Flank is a known experimental paradigm for attention studying, which is rebuilt by Pavel in HTML, JavaScript and PHP, and deployed to the Heroku cloud development platform. The task records the reaction time of the participant and stores the data in a PostgreSQL database. <br> 
-  <a>https://pavelcasian.herokuapp.com/</a>
+  <a>https://github.com/PavCasian/heroku_project/tree/master</a>
 </p>
 
 <h3 align="center">Courses</h3>
