@@ -10,14 +10,14 @@
 <h3 align="center">Skills</h3>
 
 <p>
-<ul style="float:left;">
+<ul style="float:left; width:50%;">
       <li>Python</li>
       <li>SQL and NoSQL</li>
       <li>Machine learning</li>
       <li>SSIS</li>
 </ul>
    
-<ul style="float:left;">
+<ul style="float:left; width:50%;">
       <li>Adaptability</li>
       <li>Creativity</li>
       <li>Tenacity</li>
