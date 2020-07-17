@@ -10,14 +10,14 @@
 <h3 align="center">Skills</h3>
 
 <p>
-<ul style="width:10%; float:left;">
+<ul style="float:left;">
       <li>Python</li>
       <li>SQL and NoSQL</li>
       <li>Machine learning</li>
       <li>SSIS</li>
 </ul>
    
-<ul style="width:10%; float:left;">
+<ul style="float:left;">
       <li>Adaptability</li>
       <li>Creativity</li>
       <li>Tenacity</li>
@@ -52,7 +52,7 @@ Flank is a known experimental paradigm for attention studying, which is rebuilt 
 <h3 align="center">Employment History</h3>
 
 <p>
-FEB 2020 - APR 2020 <br>
+FEB 2020 - Present <br>
 SPARTA GLOBAL <br>
 JUNIOR DATA ENGINEERING TRAINEE <br>
 An intensive and challenging 10-weeks course that taught the engineering of data infrastructures. More specifically, Pavel learnt how to build data pipelines with SQL and Python; the Hadoop ecosystem for Big Data storing, processing and analysis; the MongoDB NoSQL database; and the cloud architecture of Amazon S3. He also acquired top class business and consultancy skills. <br>
