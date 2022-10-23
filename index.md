@@ -35,11 +35,7 @@ Engineered an ETL pipeline, which extracted json, csv and text files from AWS S3
 <p>
 Improved the previous Sparta project by following a strict object-oriented approach. Replaced the methods for a more efficient processing (x6 faster) and increased reliability of the data through introducing additional validation (e.g. merging on two fields when a unique identifier is lacking). <a>https://github.com/PavCasian/Data8Project/tree/development</a> 
 </p>
-##### FLANK TASK DEPLOYED TO HEROKU 
-<p>
-Flank is a known experimental paradigm for attention studying, which is rebuilt by Pavel in HTML, JavaScript and PHP, and deployed to the Heroku cloud development platform. The task records the reaction time of the participant and stores the data in a PostgreSQL database. <br> 
-  <a>https://github.com/PavCasian/heroku_project/tree/master</a>
-</p>
+
 
 <h3 align="center">Courses</h3>
 <ul>
@@ -50,17 +46,21 @@ Flank is a known experimental paradigm for attention studying, which is rebuilt 
 </ul>
 
 <h3 align="center">Employment History</h3>
+<p>
+NOV 2020 - PRESENT <br>
+SPARTA GLOBAL <br>
+DATA BUSINESS ANALYSIS CONSULTANT<br>
+  The role is within a public sector project of migrating certain land data from all local authorities in England and Wales to a national gov.uk platform to speed up the conveyancing process. Pavel acts as an SME on the data. He performs a gap analysis on the data of local authorities against the approved schema and makes recommendations to the relevant stakeholders on the necessary steps to achieve the approved quality standard. His recommendations are based on an in-depth analysis of the multiple and varied data sources avaible at local authorities using Python and QGIS (for spatial data). He's a key player in ensuring a reliable data pipeline by setting the right transformations to take place on the data before it hits the live database.
+  <p>
+  
 
 <p>
-FEB 2020 - Present <br>
+FEB 2020 - APR 2020 <br>
 SPARTA GLOBAL <br>
 JUNIOR DATA ENGINEERING TRAINEE <br>
 An intensive and challenging 10-weeks course that taught the engineering of data infrastructures. More specifically, Pavel learnt how to build data pipelines with SQL and Python; the Hadoop ecosystem for Big Data storing, processing and analysis; the MongoDB NoSQL database; and the cloud architecture of Amazon S3. He also acquired top class business and consultancy skills. <br>
 <br>
-JUN 2018 - OCT 2018 <br>
-GI GROUP <br>
-PRODUCTION OPERATIVE <br>
-Pavel was involved in quality check and technical production maintenance. This was accomplished through regular checks and troubleshooting any faults that resulted in poor production index. <br>
+
 <br>
 OCT 2017 - JAN 2018 <br>
 BUSINESS INNOVATION PROGRAMME <br>
@@ -70,12 +70,7 @@ Pavel worked with 4 other students on a business problem of a luxury clothing br
 JUN 2017 - SEP 2017 <br>
 SECURITY WATCHDOG <br>
 SCREENING SPECIALIST <br>
-Pavel was part of a team that delivered worldwide screening services, which included past employment and education checks. He showed ability to work to own initiative and portrayed first class problem-solving skills through finding the most reliable source that could confirm the specific roles of his candidates. Pavel was also in close contact with the stakeholders (clients, candidates and his team) to ensure that they are informed of the process.<br>
-<br>
-JUN 2017 - SEP 2017 <br>
-NATIVO LTD <br>
-VIRGIN MEDIA BRAND AMBASSADOR <br>
-Pavel promoted the Virgin Media internet to students through social media and attracted new customers.
+Pavel was part of a team that delivered worldwide screening services, which included past employment and education checks. He showed ability to work to own initiative and portrayed first class problem-solving skills through finding the most reliable source that could confirm the specific roles of his candidates. Pavel was also in close contact with the stakeholders to ensure they are informed of the process.<br>
 </p>
 
 <h3 align="center">Education</h3>
@@ -111,7 +106,7 @@ BSC PSYCHOLOGY (FIRST CLASS) <br>
 <h3 align="center">Volunteer Work</h3>
 <p>
 Voluntary research assistant <br>
-School of Psychology, University of Southampton: Pavel worked with one of the experts in visual perception at University of Southampton on a project that explores multisensory perception. One of his main responsibilities in the project was data collection, which involved finding participants and testing them on the experimental apparatus. He also took responsibility in designing the procedure part of the experiment.
+School of Psychology, University of Southampton: Pavel worked with one of the experts in visual perception at University of Southampton on a project that explores multisensory perception. One of his main responsibilities was data collection, which involved finding participants and testing them on the experimental apparatus. He also took responsibility in designing the procedure part of the experiment.
 </p>
 Support worker <br>
 Community Centre for Mental Health: The role introduced Pavel to important techniques and principles from Alchoolics Anonymous and Cognitive Behavioural Therapy. He was happily supporting in-patients in whatever they needed help with.
