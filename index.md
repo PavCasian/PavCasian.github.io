@@ -97,11 +97,11 @@ BSC PSYCHOLOGY (FIRST CLASS) <br>
 
 <h3 align="center">Hobbies/Extra Curricular Activities</h3>
 
- **Triathlon**: Pavel practices triathlon which allows him to train his resilience and focus <br>
- **Health and Fitness**: He is also in fond of a healthy lifestyle and is currently on a plant-based diet <br>
- **Speaks four languages**: Russian, Romanian, Italian and English <br>
- **Dancing**: Currently learning salsa and bachata (Latino dances) because it enhances the body-mind connection <br>
- **Meditation**: Also practices meditation to maintain calm, focused and present in the moment<br>
+ **Triathlon**: Favourite discipline is swimming <br>
+ **Speaks four languages**: Romanian, English, Russian and Italian<br>
+ **Acting**: Part of the local Russian-speaking theatre. An opportunity to learn acting and practise Russian<br>
+ **Dancing**: Salsa<br>
+ **Meditation**: To maintain calm, focused and present in the moment<br>
 
 <h3 align="center">Volunteer Work</h3>
 <p>
